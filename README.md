@@ -29,3 +29,5 @@ Here are some ideas to get you started:
   <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="right" alt="Garbiel-gif" src="https://i.picasion.com/pic92/1e828e8d5d96deb522cc151fb8ebf955.gif" width="90" height="90" border="0">
 </div>
+  
+## Total profile visits :detective: <img alingn="center" src="https://profile-counter.glitch.me/gabrielfreirebraz/count.svg" />
