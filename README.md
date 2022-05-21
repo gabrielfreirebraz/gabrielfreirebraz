@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center">
+  <a href="https://github.com/gabrielfreirebraz">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=gabrielfreirebraz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfreirebraz&layout=compact&langs_count=7&theme=graywhite"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="right" alt="Garbiel-gif" src="https://i.picasion.com/pic92/1e828e8d5d96deb522cc151fb8ebf955.gif" width="90" height="90" border="0">
+</div>
