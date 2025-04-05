@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm Gabriel Freire, a passionate software developer and tech enthusiast. I currently work as a Full Stack Engineer at AB-Inbev. </br>
+I'm Gabriel Braz, a passionate software developer and tech enthusiast. I currently work as a Full Stack Engineer at AB-Inbev. </br>
 With over 10 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 # 💻 Tech Stack
