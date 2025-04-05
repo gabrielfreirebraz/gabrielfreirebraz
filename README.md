@@ -11,4 +11,4 @@ With over 10 years of experience in the field, I've had the opportunity to work 
  
  
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielfreirebraz/) [![Gmail](https://img.shields.io/badge/-Gmail-%23333?logo=gmail&logoColor=white)](mailto:gabrielfreirebraz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielfreirebraz/) [![Gmail](https://img.shields.io/badge/-Gmail-%23333?logo=gmail&logoColor=white)](mailto:gabrielbraz.developer@gmail.com)
